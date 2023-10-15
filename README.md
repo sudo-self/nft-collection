@@ -1,4 +1,4 @@
-# <a href="https://reactapp-kbvphs33z98q.deno.dev/">A React App</a>
+# <a href="https://sudo-self.deno.dev/">sudo-self.deno.dev</a>
 ## ![Screenshot 2023-10-12 at 12 52 00](https://github.com/sudo-self/react-app/assets/119916323/5b386141-3a03-4da0-af15-cfdc159f553b)
 
 
