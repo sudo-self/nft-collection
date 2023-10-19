@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <code>sudo-self</code>
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://sudo-self.com"
           target="_blank"
           rel="noopener noreferrer"
         >
